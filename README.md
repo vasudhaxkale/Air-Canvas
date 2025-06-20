@@ -1,2 +1,14 @@
-# Air-Canvas
- Air Canvas is a Python-based virtual drawing app that lets you draw in the air using hand gestures. It uses OpenCV and Mediapipe to detect finger movements and enables drawing, color selection, and erasing on a digital canvas—completely touch-free.
+# 🖌️ Air Canvas - Draw with Hand Gestures
+
+Air Canvas is a virtual drawing tool built with Python, OpenCV, and Mediapipe. It lets you draw in the air using your hand—no mouse or touchscreen required.
+
+## 🔧 Requirements
+- Python 3.x
+- OpenCV
+- Mediapipe
+- NumPy
+
+## 📦 Installation
+```bash
+pip install opencv-python mediapipe numpy
+python air_canvas.py h+
